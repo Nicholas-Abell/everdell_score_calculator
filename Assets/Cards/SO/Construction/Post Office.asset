@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4c5a7c3b7af9584c8f29cb5f2a3355b, type: 3}
+  m_Name: Post Office
+  m_EditorClassIdentifier: 
+  _name: Post Office
+  _description: (meeple) Give an oponent 2(cards), then discard any number of (cards)
+    and draw up to your hand limit.
+  _buildingPairing: 
+  _amberCost: 2
+  _stoneCost: 
+  _woodCost: 1
+  _berryCost: 
+  _critterPairing: 
+  _artwork: {fileID: 0}
+  _pointsDisplay: 2
+  _pointValue: 2
+  _isCommon: 1
+  _isUnique: 0
+  _isCritter: 0
+  _isContruction: 1
+  _tanTraveler: 0
+  _greenProductive: 0
+  _redDestination: 1
+  _blueGovernance: 0
+  _purpleProsperity: 0

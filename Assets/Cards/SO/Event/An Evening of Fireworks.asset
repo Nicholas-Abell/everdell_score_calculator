@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b8346a5d3cdeeb4d8b40d8ccb92dc33, type: 3}
+  m_Name: An Evening of Fireworks
+  m_EditorClassIdentifier: 
+  _name: An Evening of Fireworks
+  _description: Lookout, Miner Mole
+  _description2: place up to 3 (wood), each (wood) = 2
+  _pointDisplay: 2x
+  _pointValue: 0
+  _multiplier: 2
